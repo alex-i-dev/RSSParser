@@ -1,2 +1,3 @@
 # RSSParser
-Starter kit
+
+Задача - shorturl.at/bcEQV
